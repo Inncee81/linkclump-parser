@@ -22,6 +22,10 @@ So, I have written this little tool in C# which address this issue. This tool co
 - Does this app supports Linux, OSX
 
   `I am not sure, I haven't tested on those OS`
+  
+- Does the linkclump-parser runs on its own and copy the urls
+
+  `No, this a clipboard parser tool. So you will need linkclump or any such tool to copy all the links to clipboard and once its in            clipboard linkclump-parser will trigger and saves the links to the file`
 
 ## Licence
   linkclump-parser is licensed under a MIT license.
